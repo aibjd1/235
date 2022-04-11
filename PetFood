@@ -1,0 +1,49 @@
+<!doctype html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name=“viewport” content="width=device-width,
+		initial-scale=1">
+		
+
+		<link href="css/grid.css" rel="stylesheet">
+	</head>
+
+	<body>
+		<header>
+			<a href="zhuye.html"class="Logo"><img src="img/logo.PNG"width=222 height="147"></a>
+			<ul >
+				<div class="nav">
+				<li><a href="PetFood.html">Peet Food</a></li>
+				<li><a href="The Usual.html">The Usual</a> </li>
+				<li><a href="Contact.html">Contact</a></li>
+				<li><a href="Account.html">Account</a></li>
+				<li><a href="Cart.html">Cart</a></li>
+			</div>
+			</ul>
+			<div class="search">
+				<input type="text" placeholder="Search" >	
+			</div>
+		</header>
+
+		<div class="gouliang">
+			<a href="#"></a>
+			<img src="gouliang">
+
+
+			
+		</div>
+
+
+
+
+
+
+
+
+
+	</body>
+
+
+	</html>
